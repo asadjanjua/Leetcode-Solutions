@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0125-valid-palindrome](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
