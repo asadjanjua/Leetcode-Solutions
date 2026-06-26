@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0704-binary-search](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
