@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0093-restore-ip-addresses](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
@@ -117,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 <!---LeetCode Topics End-->
