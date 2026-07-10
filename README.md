@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
