@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
