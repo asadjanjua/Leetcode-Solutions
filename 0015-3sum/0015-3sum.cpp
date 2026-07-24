@@ -3,10 +3,8 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums)
     {
         vector<vector<int>> ans;
-
         // Step 1: Sort the array
         sort(nums.begin(), nums.end());
-
         /*
         Dry Run
 
@@ -16,7 +14,6 @@ public:
         After Sorting:
         [-4,-1,-1,0,1,2]
         */
-
         int n = nums.size();
 
         // Step 2: Fix one element
@@ -61,7 +58,6 @@ public:
                     while (left < right && nums[right] == nums[right + 1])
                         right--;
                 }
-
                 // Sum is too small → move left to increase sum
                 else if (sum < 0)
                 {
@@ -78,7 +74,6 @@ public:
                 Small Dry Run
 
                 Sorted Array
-
                 -4 -1 -1 0 1 2
 
                 i=0 (-4)
@@ -95,7 +90,6 @@ public:
                 Sum=-1 → left++
 
                 --------------------
-
                 i=1 (-1)
 
                 L=-1 R=2
@@ -107,25 +101,18 @@ public:
 
                 L=0 R=1
                 Sum=0 ✓
-
                 Save [-1,0,1]
 
                 --------------------
-
                 i=2
-
                 nums[2]==nums[1]
-
                 Skip duplicate
                 */
             }
         }
-
         return ans;
-
         /*
         Final Answer
-
         [
           [-1,-1,2],
           [-1,0,1]
