@@ -7,28 +7,17 @@ public:
         for (int i = 0; i < nums.size(); i++)
         {
             freq[nums[i]]++;
-            /*
-            Dry Run
+            /*    Dry Run
             nums = [1,1,1,2,2,3]
-            1 -> 3
-            2 -> 2
-            3 -> 1
-            */
+            1 -> 3,    2 -> 2,     3 -> 1       */
         }
-        // Vector of pairs
-        // pair.first  = Number
-        // pair.second = Frequency
+        // Vector of pairs, pair.first  = Number,  pair.second = Frequency
         vector<pair<int, int>> arr;
         // Step 2: Copy HashMap into vector
         for (auto it = freq.begin(); it != freq.end(); it++)
         {
             arr.push_back({it->first, it->second});
-            /*
-            arr
-            (1,3)
-            (2,2)
-            (3,1)
-            */
+            /* arr (1,3) (2,2) (3,1) */
         }
         // Step 3: Sort by frequency (highest first)
         sort(arr.begin(), arr.end(),
@@ -39,9 +28,7 @@ public:
              });
         /*
         After Sorting
-        (1,3)
-        (2,2)
-        (3,1)
+        (1,3)  (2,2)  (3,1)
         */
         vector<int> ans;
         // Step 4: Take first k most frequent numbers
