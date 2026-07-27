@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Dynamic Programming
