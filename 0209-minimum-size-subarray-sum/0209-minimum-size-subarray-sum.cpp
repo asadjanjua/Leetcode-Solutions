@@ -1,36 +1,26 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-
         // Store minimum length
         int ans = INT_MAX;
-
         // Current window sum
         int sum = 0;
-
         // Left pointer
         int left = 0;
-
         // Expand window
         for(int right=0; right<nums.size(); right++){
-
             // Add new element
             sum += nums[right];
-
             // Shrink window while sum >= target
             while(sum >= target){
-
                 // Update minimum length
                 ans = min(ans, right-left+1);
-
                 // Remove left element
                 sum -= nums[left];
-
                 // Move left pointer
                 left++;
             }
         }
-
         // No valid subarray found
         if(ans == INT_MAX)
             return 0;
