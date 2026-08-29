@@ -219,4 +219,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
