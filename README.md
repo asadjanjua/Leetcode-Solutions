@@ -221,4 +221,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/asadjanjua/Leetcode-Solutions/tree/main/0607-sales-person/) | Easy |
 <!---LeetCode Topics End-->
